@@ -2,6 +2,8 @@
 
 Landing page fictícia para um restaurante, com objetivo de criar uma página responsiva e informativa sobre os pratos e serviços oferecidos. O projeto usa HTML e CSS para mostrar práticas de layout e design responsivo.
 
+### 🔗 [Acesse o projeto aqui](https://projeto-restaurante-ten-mu.vercel.app/)
+
 ## 🚀 Tecnologias usadas:
 - HTML5
 - CSS3 (Media Queries para responsividade)
